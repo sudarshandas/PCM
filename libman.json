@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.5.1",
+      "destination": "wwwroot/Vendor/jquery/"
+    },
+    {
+      "library": "jquery-easing@1.4.1",
+      "destination": "wwwroot/Vendor/jquery-easing/"
+    },
+    {
+      "library": "Chart.js@2.9.3",
+      "destination": "wwwroot/Vendor/Chart.js/"
+    },
+    {
+      "library": "twitter-bootstrap@4.5.0",
+      "destination": "wwwroot/Vendor/twitter-bootstrap/"
+    },
+    {
+      "library": "font-awesome@5.14.0",
+      "destination": "wwwroot/Vendor/font-awesome/"
+    }
+  ]
+}
